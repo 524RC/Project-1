@@ -72,3 +72,8 @@ P{
     box-shadow: 0 5px #00a70e;
     transform: translateY(4px);
   }
+.box{
+  border-radius:10px;
+  border-color:black;
+  border-left: 100px;
+}
